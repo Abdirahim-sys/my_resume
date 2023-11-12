@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Compiled files
+*.log
+*.min.js
+*.min.css
+
+# Environment variables
+.env
+
+# Dependency lock files
+package-lock.json
+yarn.lock
